@@ -1,0 +1,19 @@
+﻿1. Gmail>>Time Trigger>>>Exeute evey 10 Minute
+
+1 Robot 
+
+1 Forground>> UiInteraction  
+
+2 Background>>No UiInteraction
+
+2. Integration Services
+Gmail imap used without Cred 
+Trigger
+mifw vpsb lfgf qmpu
+
+Agent AI 
+AutoPilot and Ms team Integreat (UIpath
+GIT INtegration
+Testing
+Automaiton OPS pipleine
+Azure OPS
